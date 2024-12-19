@@ -1,7 +1,7 @@
 import { Footer } from "@/components/ui/Footer"
 import { Albuns } from "@/components/ui/Albuns"
 import { Sidebar } from "@/components/ui/Siderbar"
-import { Recomend } from "@/components/Recomend"
+import { Recomend } from "@/components/ui/Recomend"
 import { ChevronLeft, ChevronRight } from "lucide-react"
 
 export default function Home() {
