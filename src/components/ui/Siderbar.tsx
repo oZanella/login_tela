@@ -24,7 +24,7 @@ export function Sidebar() {
       </nav>
 
       <nav className="mt-6 pt-10 border-t border-zinc-800 flex flex-col gap-3">
-        <a href="" className="text-sn text-zinc-400 hover:text-zinc-100">L7NNON</a>
+        <a href="" className="text-sn text-zinc-400 hover:text-zinc-100">Remember us</a>
         <a href="" className="text-sn text-zinc-400 hover:text-zinc-100">Imagine Dragons</a>
         <a href="" className="text-sn text-zinc-400 hover:text-zinc-100">Eminem</a>
         <a href="" className="text-sn text-zinc-400 hover:text-zinc-100">Matuê</a>

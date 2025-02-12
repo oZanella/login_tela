@@ -6,8 +6,8 @@ export function Albuns() {
   return (
     <div className="grid grid-cols-3 gap-4 mt-4"> {/*Albuns do main */}
       <a href="#" className="bg-white/5 group transition-colors rounded overflow-hidden flex items-center gap-4 hover:bg-white/10 ">
-        <Image src="/L7.png" width={104} height={104} alt="Capa L7NNNON" />
-        <strong>L7NNNON</strong>
+        <Image src="/eu_e_ela.png" width={104} height={104} alt="Capa Remember us" />
+        <strong>Remember us</strong>
         <button className="w-12 h-12 flex items-center justify-center pl-0.95 rounded-full bg-green-500 text-black ml-auto mr-8 invisible group-hover:visible transition-colors duration-500 ease-in-out hover:bg-green-400 hover:scale-105">
           <PlayArrowIcon />
         </button>
